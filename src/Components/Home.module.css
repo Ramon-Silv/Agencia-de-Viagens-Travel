@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section{
+    width: 100%;
+    height: 85vh;
+    padding: 2%;
+    display: flex;
+    justify-content: space-around;
+}
+
+section img{
+    width: 40%;
+    height: fit-content;
+}
+
+.texto{
+    width: 50%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.texto h1{
+    font-size: 2.5em;
+    color: #030369;
+    padding: 2%;
+}
+
+.texto p{
+    width: 80%;
+    color: #030369;
+    font-size: 1.3em;
+}

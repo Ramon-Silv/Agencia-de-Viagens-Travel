@@ -1,0 +1,22 @@
+.escocia{
+    background-image: url(../imagens/Escocia.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card{
+    background-color: #ffffffa5;
+    width: 25%;
+    height: 60vh;
+    padding: 1%;
+    border-radius: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.card img{
+    width: 20%;
+}
